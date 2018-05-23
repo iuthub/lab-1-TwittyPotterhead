@@ -1,0 +1,35 @@
+body{
+	background:#ace;
+	font-size: 18px;
+}
+
+.personal_info{
+	text-align: center;
+}
+
+h1{
+	color: blue;
+	text-align: center;
+}
+
+.main_features{
+	color: yellow;
+	font-size: 22px;
+}
+
+a{
+	color: red;
+}
+
+.mood{
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+}
+
+ul, ol{
+	width: 16%;
+	margin: 0 auto;
+}
